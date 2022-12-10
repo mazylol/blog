@@ -29,6 +29,9 @@ github_username:  mazylol
 
 read_time: true
 
+disqus:
+  shortname: https-blog-mazylol-com
+
 search: true
 search_provider: algolia
 algolia:
