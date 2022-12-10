@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Welcome to the Blog
+permalink: /welcome/
 ---
 
-This is my blog site. I use jekyll and the <a href="https://github.com/mmistakes/jekyll-theme-basically-basic">jekyll-theme-basically-basic</a> theme.
+This is where I spew my random thoughts and (***sometimes***) controversial opinions on programming.
 
-Here you can find devlogs on specific projects and other stuff that I mess around with.
+### All opinions are my own and if you have a problem with that...Close your browser
