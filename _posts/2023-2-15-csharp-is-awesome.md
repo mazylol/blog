@@ -17,4 +17,10 @@ Plus, as of late I have been working with the OpenWeatherMap API. Being able to 
 Dealing with Gradle in Java is painful. There are so many ways to go about strucuring a build.gradle(.kts?) file that it just feels overwhelming. Here, everything feels much more standarized and it is a lot easier to reason about a project in general.
 
 ## Language Features
-There is a lot to love here.
+There is a lot to love here. It still has some boilerplace like Java but it is generally easier to reason about. I like the conciseness of the code and it feels like I have a harder time making it break in comparison to Java.
+
+### Nuget / Dependencies
+I like how everything is centralized. Plus, having the package manager built right into Rider is really nice. Dependencies are a main concern for the language, not an afterthought like Java.
+
+## Gripes
+Take this with a grain of salt, I am still learning and that takes time. It is still kind of hard for me to understand .sln and .csproj files. Like currently in my WeatherCord project for example. It is kind of jankily hacked together, but I wanted to have my dependencies shared across projects so I could just manage them in one place. I have been trying to do that but it is confusing. I know it is possible, I just don't now *how* it is possible. Also the syntax for the files is like visual basic. VB makes me cry blood.
