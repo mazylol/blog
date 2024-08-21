@@ -109,6 +109,10 @@ func main() {
 
 	billy.Display()
 }
-
 ```
 ...this
+
+I enjoy brevity. And this is not it.
+
+## What is it good for?
+Minecraft mods. Even though Java is your only option, maybe kotlin, it works well for minecraft modding. It is quite nice.
