@@ -3,8 +3,6 @@ layout: post
 title: How To Learn To Code
 ---
 
-## Intro
-
 So, you want to code. Congratulations. You are getting into a rabbit hole that you probably won't ever be able to leave. There is no coming back from this.
 
 ## Prerequisites
